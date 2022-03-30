@@ -74,6 +74,11 @@ a:hover{
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
 .btn-outline-success {
     color: #fff;
     border-color: #8c8c8c;

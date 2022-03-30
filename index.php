@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head>git
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -135,6 +135,17 @@
             <li class="page-item"><a class="page-link" href="#">Pagina urmatoare</a></li>
         </ul>
     </div>
+
+<footer class="py-3 my-0">
+    <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Acasa</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Anime Online</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Movie</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Echipa</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Despre noi</a></li>
+    </ul>
+    <p class="text-center text-muted">© 2022 Anime AZU©</p>
+</footer>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
